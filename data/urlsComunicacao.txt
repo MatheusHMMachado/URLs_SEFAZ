@@ -1,0 +1,45 @@
+(AC)Consulta_Homologacao/Producao: www.sefaznet.ac.gov.br/nfce/consulta
+(AL)Consulta_Homologacao/Producao: www.sefaz.al.gov.br/nfce/consulta
+(AM)Consulta_Homologacao/Producao: www.sefaz.am.gov.br/nfce/consulta
+(AP)Consulta_Homologacao/Producao: www.sefaz.ap.gov.br/nfce/consulta
+(BA)Consulta_Producao: www.sefaz.ba.gov.br/nfce/consulta
+(CE)Consulta_Homologacao/Producao:  www.sefaz.ce.gov.br/nfce/consulta
+(DF)Consulta_Homologacao/Producao: www.fazenda.df.gov.br/nfce/consulta
+(ES)Consulta_Homologacao/Producao: www.sefaz.es.gov.br/nfce/consulta
+(GO)Consulta_Homologacao/Producao: www.sefaz.go.gov.br/nfce/consulta
+(MA)Consulta_Homologacao/Producao: www.sefaz.ma.gov.br/nfce/consulta 
+(MS)Consulta_Homologacao/Producao: www.dfe.ms.gov.br/nfce/consulta
+(MT)Consulta_Producao: http://www.sefaz.mt.gov.br/nfce/consultanfce
+(MG)Consulta_Producao: http://nfce.fazenda.mg.gov.br/portalnfce 
+(PA)Consulta_Homologacao/Producao: www.sefa.pa.gov.br/nfce/consulta
+(PB)Consulta_Producao: www.receita.pb.gov.br/nfce/consulta
+(PE)Consulta_Homologacao/Producao: nfce.sefaz.pe.gov.br/nfce/consulta
+(PI)Consulta_Homologacao: www.sefaz.pi.gov.br/nfce/consulta
+(PR)Consulta_Homologacao/Producao: http://www.fazenda.pr.gov.br/nfce/consulta
+(RJ)Consulta_Homologacao/Producao: www.fazenda.rj.gov.br/nfce/consulta 
+(RN)Consulta_Homologacao/Producao: www.set.rn.gov.br/nfce/consulta
+(RO)Consulta_Homologacao/Producao: www.sefin.ro.gov.br/nfce/consulta
+(RR)Consulta_Homologacao/Producao: www.sefaz.rr.gov.br/nfce/consulta
+(RS)Consulta_Homologacao/Producao: www.sefaz.rs.gov.br/nfce/consulta
+(SC)Consulta_Producao: https://nfce.svrs.rs.gov.br/ws/NfeConsulta/NfeConsulta4.asmx
+(SC)Consulta_Homologacao: https://nfce-homologacao.svrs.rs.gov.br/ws/NfeConsulta/NfeConsulta4.asmx
+(SP)Consulta_Producao: https://www.nfce.fazenda.sp.gov.br/consulta
+(SE)Consulta_Producao: http://www.nfce.se.gov.br/nfce/consulta
+(TO)Consulta_Producao: www.sefaz.to.gov.br/nfce/consulta
+
+(SC)Autorizacao_Producao: https://nfce.svrs.rs.gov.br/ws/NfeAutorizacao/NFeAutorizacao4.asmx
+(Sc)Autorizacao_Homologacao: https://nfce-homologacao.svrs.rs.gov.br/ws/NfeAutorizacao/NFeAutorizacao4.asmx
+
+(SC)RetAutorizacao_Producao: https://nfce.svrs.rs.gov.br/ws/NfeRetAutorizacao/NFeRetAutorizacao4.asmx
+(SC)RetAutorizacao_Homologacao: https://nfce-homologacao.svrs.rs.gov.br/ws/NfeRetAutorizacao/NFeRetAutorizacao4.asmx
+
+(SC)Inutilizacao_Producao: https://nfce.svrs.rs.gov.br/ws/nfeinutilizacao/nfeinutilizacao4.asmx
+(SC)Inutilizacao_Homologacao: https://nfce-homologacao.svrs.rs.gov.br/ws/nfeinutilizacao/nfeinutilizacao4.asmx
+
+
+(SC)StatusServico_Producao: https://nfce.svrs.rs.gov.br/ws/NfeStatusServico/NfeStatusServico4.asmx
+(SC)StatusServico_Homologacao: https://nfce-homologacao.svrs.rs.gov.br/ws/NfeStatusServico/NfeStatusServico4.asmx
+
+
+(SC)RecepcaoEvento_Producao: https://nfce-homologacao.svrs.rs.gov.br/ws/NfeStatusServico/NfeStatusServico4.asmx
+(SC)RecepcaoEvento_Homologacao: https://nfce-homologacao.svrs.rs.gov.br/ws/recepcaoevento/recepcaoevento4.asmx
